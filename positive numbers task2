@@ -1,0 +1,9 @@
+mylist = [12,-45,55,-41]
+anslist = []
+
+for i in mylist: 
+    if i>0:
+        anslist.append(i)
+       # print(i,end=", ") 
+
+print (anslist)    
